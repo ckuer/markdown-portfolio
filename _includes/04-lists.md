@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# Here is a list of the letters in my username
+- C
+- K
+- U
+- E
+- R
